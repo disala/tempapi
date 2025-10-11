@@ -2,3 +2,8 @@
 git remote add origin https://github.com/disala/tempapi.git
 git branch -M main
 git push -u origin main
+
+
+https://raw.githubusercontent.com/disala/tempapi/refs/heads/main/ass_50100B.json
+
+https://raw.githubusercontent.com/disala/tempapi/refs/heads/main/cbs.json
