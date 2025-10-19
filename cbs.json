@@ -1,10 +1,7 @@
 [
   {
     "userId": "abc",
-    "cb": "50100B"
-  },  
-  {
-    "userId": "abc",
-    "cb": "50200A"
+    "password": "abcde",
+    "cbs": ["50100A", "50101B"]
   }
 ]
