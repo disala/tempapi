@@ -2,6 +2,6 @@
   {
     "userId": "abc",
     "password": "abcde",
-    "cbs": ["50100A", "50101B"]
+    "cbs": ["50100A", "50100B"]
   }
 ]
